@@ -1,0 +1,53 @@
+.divider {
+    height:50px;
+}
+
+.photoSizeBG {
+    height: 38em;
+}
+
+.photoSizeEnd {
+	height: 28em;
+}
+
+.bg-1 {
+	background: url('../media/events-top.jpg') no-repeat center center fixed;
+
+    background-size:cover;
+}
+
+.bg-2 {
+	background: url('../media/events-middle-1.jpg') no-repeat top center fixed;
+
+    background-size:cover;
+}
+
+.bg-3 {
+	background: url('../media/events-middle-2.jpg') no-repeat bottom center fixed;
+
+    background-size:cover;
+}
+
+.bg-4 {
+	background: url('../media/events-middle-3.jpg') no-repeat bottom center fixed;
+
+    background-size:cover;
+}
+
+.bg-5 {
+	background: url('../media/events-bottom.jpg') no-repeat bottom center fixed;
+
+    background-size:cover;
+}
+
+#footer {
+    height: 60px;
+    background-color:#585858;
+    margin-top:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#footer a {
+  color:#efefef;
+}

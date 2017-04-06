@@ -1,0 +1,41 @@
+.divider {
+    height:50px;
+}
+
+.photoSizeBG {
+    height: 38em;
+}
+
+.photoSizeEnd {
+	height: 28em;
+}
+
+.bg-1 {
+	background: url('../media/homepage-top.jpg') no-repeat center center fixed;
+
+    background-size:cover;
+}
+
+.bg-2 {
+	background: url('../media/jazz.jpg') no-repeat top center fixed;
+
+    background-size:cover;
+}
+
+.bg-3 {
+	background: url('../media/insideFB.jpg') no-repeat bottom center fixed;
+
+    background-size:cover;
+}
+
+#footer {
+    height: 60px;
+    background-color:#585858;
+    margin-top:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#footer a {
+  color:#efefef;
+}

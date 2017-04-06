@@ -1,0 +1,50 @@
+/*FONTS::
+	HEADING: 'Playfair Display', serif;
+	SANS SERIF: 'Noto Sans', sans-serif;
+*/
+
+h1, h2, h4, .veraNav {
+	font-family: 'Playfair Display', serif;
+}
+
+h5, p , .navItems{
+	font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+	font-size:4.9em;
+}
+
+.whiteText {
+	color:white;
+}
+
+.blackText {
+	color:black;
+}
+
+em {
+	font-family: 'Playfair Display', serif;
+	font-weight:bold;
+}
+
+.noItalics {
+	font-style: normal;
+}
+
+.noDec {
+	text-decoration:none;
+	color:white;
+}
+
+.readingBox {
+	font-size:1.33em;
+}
+
+.topLinks {
+
+}
+
+.tooBig {
+	font-size:2.833em;
+}
